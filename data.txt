@@ -1,1 +1,6 @@
-[]
+- path: btps-data
+  name: btps-data
+  rows: 18
+  cols: 2
+  description: temperature and BTPS correction factors
+  type: table

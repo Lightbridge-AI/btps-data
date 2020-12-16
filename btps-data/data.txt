@@ -1,0 +1,10 @@
+path:
+- data.csv
+- data.rds
+rows: 18
+cols: 2
+columns:
+  Gas_temp_c: numeric
+  Factor_37: numeric
+description: temperature and BTPS correction factors
+type: table
